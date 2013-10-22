@@ -1,0 +1,19 @@
+{
+  "name": "ibot",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "0.10.15",
+    "npm": "1.2.x"
+  },
+  "dependencies": {
+    "net": "1.0.*",
+    "async": "latest",
+    "mongodb": "latest",
+    "carrier": "latest",
+    "underscore": "latest",
+    "nedb": "https://github.com/thomascool/nedb/tarball/master"
+
+  }
+}
+
